@@ -31,7 +31,7 @@ global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
 global.packname = 'Tk_team🎧'
 global.author = 'Tk-team🎧'
-global.sessionName = 'session'
+global.sessionName = 'cUE0Q1pVejA='
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
